@@ -38,8 +38,8 @@ public class SampleCheck_01
        File file1= new File("./src/Screenshot/test.png");
        FileUtils.copyFile(file,file1);
 
-
    }
+
 
    @AfterMethod
     public void logout()
