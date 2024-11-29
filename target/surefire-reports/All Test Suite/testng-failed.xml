@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [All Test Suite]" guice-stage="DEVELOPMENT" verbose="0">
+  <test thread-count="5" name="C:/Users/MOHAMMED SAQLAIN/IdeaProjects/Maven_Git/src/test/java/SampleCheck_01.java(failed)" verbose="0">
+    <classes>
+      <class name="SampleCheck_01">
+        <methods>
+          <include name="setUp"/>
+          <include name="test1"/>
+          <include name="login"/>
+          <include name="logout"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- SampleCheck_01 -->
+    </classes>
+  </test> <!-- C:/Users/MOHAMMED SAQLAIN/IdeaProjects/Maven_Git/src/test/java/SampleCheck_01.java(failed) -->
+</suite> <!-- Failed suite [All Test Suite] -->
