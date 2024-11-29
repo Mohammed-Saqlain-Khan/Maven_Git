@@ -16,6 +16,7 @@ public class SampleCheck_01
     public void setUp() throws InterruptedException {
      driver = new ChromeDriver();
         driver.manage().window().maximize();
+        Thread.sleep(2000);
         driver.get("https://opensource-demo.orangehrmlive.com/web/index.php/auth/login");
         Thread.sleep(2000);
     }

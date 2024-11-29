@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-29T15:20:41 IST" name="All Test Suite" finished-at="2024-11-29T15:20:57 IST" duration-ms="16297">
+    <groups>
+    </groups>
+    <test started-at="2024-11-29T15:20:41 IST" name="C:/Users/MOHAMMED SAQLAIN/IdeaProjects/Maven_Git/src/test/java/SampleCheck_01.java" finished-at="2024-11-29T15:20:57 IST" duration-ms="16250">
+      <class name="SampleCheck_01">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:SampleCheck_01@359f7cdf]" started-at="2024-11-29T15:20:41 IST" name="setUp" finished-at="2024-11-29T15:20:53 IST" duration-ms="12734" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method is-config="true" signature="login()[pri:0, instance:SampleCheck_01@359f7cdf]" started-at="2024-11-29T15:20:53 IST" name="login" finished-at="2024-11-29T15:20:56 IST" duration-ms="2236" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="test1()[pri:0, instance:SampleCheck_01@359f7cdf]" started-at="2024-11-29T15:20:56 IST" name="test1" finished-at="2024-11-29T15:20:56 IST" duration-ms="187" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method is-config="true" signature="logout()[pri:0, instance:SampleCheck_01@359f7cdf]" started-at="2024-11-29T15:20:56 IST" name="logout" finished-at="2024-11-29T15:20:57 IST" duration-ms="914" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:SampleCheck_01@359f7cdf]" started-at="2024-11-29T15:20:57 IST" name="tearDown" finished-at="2024-11-29T15:20:57 IST" duration-ms="91" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- SampleCheck_01 -->
+    </test> <!-- C:/Users/MOHAMMED SAQLAIN/IdeaProjects/Maven_Git/src/test/java/SampleCheck_01.java -->
+    <test started-at="2024-11-29T15:20:57 IST" name="C:/Users/MOHAMMED SAQLAIN/IdeaProjects/Maven_Git/src/test/java/SampleTest_02.java" finished-at="2024-11-29T15:20:57 IST" duration-ms="3">
+      <class name="SampleTest_02">
+        <test-method signature="test2()[pri:0, instance:SampleTest_02@7f0eb4b4]" started-at="2024-11-29T15:20:57 IST" name="test2" finished-at="2024-11-29T15:20:57 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+      </class> <!-- SampleTest_02 -->
+    </test> <!-- C:/Users/MOHAMMED SAQLAIN/IdeaProjects/Maven_Git/src/test/java/SampleTest_02.java -->
+  </suite> <!-- All Test Suite -->
+</testng-results>
